@@ -1,0 +1,14 @@
+.product-container {
+    padding: 2rem 0;
+}
+
+.title-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+}
+
+.recommendation-button {
+    margin-left: 2rem;
+}
