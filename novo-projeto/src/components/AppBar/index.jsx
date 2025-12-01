@@ -10,9 +10,6 @@ const AppBar = () => {
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="ms-auto">
-          <Nav.Link as={Link} to="/products">
-            <Button variant="outline-light">Ver Itens</Button>
-          </Nav.Link>
         </Nav>
       </Navbar.Collapse>
     </Navbar>
