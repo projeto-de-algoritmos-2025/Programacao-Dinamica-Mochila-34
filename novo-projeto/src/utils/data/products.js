@@ -159,6 +159,160 @@ const data = [
         image: 'etiquetas_adesivas.png',
     },
 
+    {
+        id: 24,
+        name: 'Canetinha Hidrográfica Faber-Castell 24 Cores 15.0124CZF',
+        price: 39.99,
+        image: 'Canetinha_Hidrográfica.jpg',
+    },
+
+    {
+        id: 25,
+        name: 'Kit Caneta Esferografica Cis 1.0mm Ultra Bold Com 5un',
+        price: 24.99,
+        image: 'Kit_Caneta_Cis_Com_5un.jpg',
+    },
+
+    {
+        id: 26,
+        name: 'Estojo Escolar Dac Mulher Maravilha Vm',
+        price: 54.99,
+        image: 'Estojo_Escolar.jpg',
+    },
+
+    {
+        id: 27,
+        name: 'Caderno Universitário Jandaia On Fleek 200fls 10mat',
+        price: 24.99,
+        image: 'Caderno_Universitário.jpg',
+    },
+
+    {
+        id: 28,
+        name: 'Kit Face Molin Minnie 7 Pcs',
+        price: 64.99,
+        image: 'Kit_Minnie.jpg',
+    },
+
+    {
+        id: 29,
+        name: 'Kit Face Molin Spiderman 7 Pcs',
+        price: 64.99,
+        image: 'Kit_Spiderman.jpg',
+    },
+
+    {
+        id: 30,
+        name: 'Kit Face Molin Avengers 7 Pcs',
+        price: 64.99,
+        image: 'Kit_Avengers.jpg',
+    },
+
+    {
+        id: 31,
+        name: 'Maleta De Pintura Molin Mickey',
+        price: 99.99,
+        image: 'Maleta_Mickey.jpg',
+    },
+
+    {
+        id: 32,
+        name: 'Maleta De Pintura Molin Spiderman',
+        price: 99.99,
+        image: 'Maleta_Spiderman.jpg',
+    },
+
+    {
+        id: 33,
+        name: 'Massa Cerâmica Fria 500g',
+        price: 28,
+        image: 'Massa_Ceramica.jpg',
+    },
+
+    {
+        id: 34,
+        name: 'Plástico para Plastificação A4 220x307x0,05 125 micras 100un',
+        price: 99,
+        image: 'Plástico_Plastificação .jpg',
+    },
+
+    {
+        id: 35,
+        name: 'Tesoura Escolar Cis Criatic Ks260 Lamina Plastica',
+        price: 14,
+        image: 'Tesoura_Escolar.jpg',
+    },
+
+    {
+        id: 36,
+        name: 'Corretivo Fita Cis Milk Shake 5mmx6m',
+        price: 20,
+        image: 'Corretivo_Fita.jpg',
+    },
+
+    {
+        id: 37,
+        name: 'Kindle Paperwhite 16 GB',
+        price: 720,
+        image: 'Kindle_Paperwhite.jpg',
+    },
+
+    {
+        id: 38,
+        name: 'Cartas de um diabo a seu aprendiz Capa dura',
+        price: 29.50,
+        image: 'livro_1.jpg',
+    },
+
+    {
+        id: 39,
+        name: 'Assistente do Vilão',
+        price: 34,
+        image: 'livro_2.jpg',
+    },
+
+    {
+        id: 40,
+        name: 'O Hobbit',
+        price: 38,
+        image: 'livro_3.jpg',
+    },
+
+    {
+        id: 41,
+        name: 'Conjunto de Canetas de Desenho Animado Em Gel Apagável, Tinta Azul',
+        price: 128,
+        image: 'Caneta_apagavel.jpg',
+    },
+
+    {
+        id: 42,
+        name: 'Planner do Secreto - Capa Azul Capa dura',
+        price: 44.42,
+        image: 'Planner_Secreto.jpg',
+    },
+
+    {
+        id: 43,
+        name: 'Sketch & Planner - Lion Colors black & white',
+        price: 24,
+        image: 'Planner_leao.jpg',
+    },
+
+    {
+        id: 44,
+        name: '20Pcs Retro Bronze Metal Notebook Diary Photo Album Corner Protection Edge Protection Decoration',
+        price: 26.88,
+        image: 'Bronze_Metal.jpg',
+    },
+
+    {
+        id: 45,
+        name: 'O Príncipe - Edição de Luxo Almofadada',
+        price: 40.93,
+        image: 'livro_4.jpg',
+    },
+
 ]
 
 export default data
